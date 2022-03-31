@@ -39,6 +39,7 @@ def dec1(fun):
 @dec1
 def python():
     print("python")
+    pass
 
 #py=dec1(python)
 
